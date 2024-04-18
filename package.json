@@ -1,7 +1,6 @@
 {
   "name": "dom",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -35,5 +34,14 @@
   },
   "dependencies": {
     "core-js": "^3.37.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PavelSobyanin/DZ-2-Dom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PavelSobyanin/DZ-2-Dom/issues"
+  },
+  "homepage": "https://github.com/PavelSobyanin/DZ-2-Dom#readme",
+  "description": ""
 }
