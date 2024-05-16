@@ -1,1 +1,4 @@
 dist
+coverage
+docs
+.eslintignore
